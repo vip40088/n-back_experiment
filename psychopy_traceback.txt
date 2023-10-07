@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File “/Applications/PsychoPy.app/Contents/Resources/lib/python3.8/psychopy/app/builder/dialogs/__init__.py”, line 1531, in onBrowseTrialsFile
+  File “/Applications/PsychoPy.app/Contents/Resources/lib/python3.8/psychopy/data/utils.py”, line 440, in importConditions
+OSError: Your conditions file should be an xlsx, csv, dlm, tsv or pkl file
